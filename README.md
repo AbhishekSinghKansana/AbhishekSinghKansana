@@ -2,7 +2,7 @@
 - 👀 I’m interested in making website
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate in making website
-- 📫 Reach me by my gmail id abhishekkansanathe@gmail.com
+- 📫 Reach me by my gmail abhishekkansanathe@gmail.com
 
 <!---
 AbhishekSinghKansana/AbhishekSinghKansana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
